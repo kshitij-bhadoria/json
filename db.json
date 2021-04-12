@@ -1,0 +1,20 @@
+[
+   {
+      "question": "What color is an apple",
+      "answers": [
+         "Blue",
+         "Red",
+         "Purple"
+      ],
+      "correct": 1
+   },
+   {
+      "question": "What color is Grass",
+      "answers": [
+         "Green",
+         "Red",
+         "Purple"
+      ],
+      "correct": 1
+   }
+]
